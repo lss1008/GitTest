@@ -4,5 +4,7 @@ public class GitTest527 {
         System.out.println("2master");
         System.out.println("2hot-fix");
         System.out.println("3master");
+        System.out.println("4github");
+        
     }
 }
